@@ -5,4 +5,4 @@ to search for good wallpaer that i personally liked.
 
 Clone this repo and have it all in one command
 
-> mostly grab from reddit so don't ask me the source
+> Grab most of my wallpaper from all corners of reddit so don't ask me for source
